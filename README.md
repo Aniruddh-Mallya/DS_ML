@@ -1,7 +1,6 @@
 # DS_ML
-This repository is meant to be a part of an Internship program on Data Analytics.
- These involve seperate tasks that underly a problem statement. 
- The problem statement along with the code is available in the form of Jupyter Notebook.
+This repository is meant to be a part of an Internship program on Data Analytics. These involve seperate tasks as problem statements. 
+Specific questions underlying the problem statement along with the code is available in the form of Jupyter Notebook.
  
 ### Contents:
 
