@@ -5,12 +5,12 @@ This repository is meant to be a part of an Internship program on Data Analytics
  
 ### Contents:
 
-- To Explore Supervised Machine Learning: <br /> 
+- #### To Explore Supervised Machine Learning: <br /> 
    1. Using Simple Linear Regression: *study_hours*<br/>
       > **Task**: In this regression task we ought to predict the percentage of marks that a student is expected to score based upon the
                   number of hours they studied. 
                   Data for the same can be found at http://bit.ly/w-data <br/>
-- To Explore Unsupervised Machine Learning: <br /> 
+- #### To Explore Unsupervised Machine Learning: <br /> 
    1. Using Decision Trees: *Iris_DT* <br /> 
       > **Task**: From the given ‘Iris’ dataset, predict the optimum number of
                   clusters and represent it visually.
