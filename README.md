@@ -5,10 +5,11 @@ This repository is meant to be a part of an Internship program on Data Analytics
  
 **Contents:**
 
-- To Explore Supervised Machine Learning : study_hours
-- To Explore Unsupervised Machine Learning :<br /> 
-   1.Using Decision Trees > Iris_DT <br /> 
-   2.Using K Means Clustering > Iris_KMC
+- To Explore Supervised Machine Learning :<br /> 
+   1.Using Simple Linear Regression: *study_hours*
+- To Explore Unsupervised Machine Learning <br /> 
+   1.Using Decision Trees: *Iris_DT* <br /> 
+   2.Using K Means Clustering: *Iris_KMC*
    
 
  
