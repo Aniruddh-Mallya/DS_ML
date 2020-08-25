@@ -5,7 +5,7 @@ This repository is meant to be a part of an Internship program on Data Analytics
  
 **Contents:**
 
-- To Explore Supervised Machine Learning :<br /> 
+- To Explore Supervised Machine Learning: <br /> 
    1. Using Simple Linear Regression: *study_hours*
 - To Explore Unsupervised Machine Learning <br /> 
    1. Using Decision Trees: *Iris_DT* <br /> 
