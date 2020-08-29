@@ -19,6 +19,11 @@ Specific questions underlying the problem statement along with the code is avail
                   visualize it graphically. The purpose is if we feed any new data to this
                   classifier, it would be able to predict the right class accordingly.
                   **Dataset**: https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
-   
-
- 
+            
+ - #### To Explore Business Analytics: <br />
+        Look into *SampleSuperstore*
+      > **Task**: Perform ‘Exploratory Data Analysis’ on the dataset, 'SampleSuperstore'.
+                  As the business owner of a retail firm, see how your company is performing. 
+                  Find out the weak areas where you can work to make more profit.
+                  Derive the solution to all business problems by looking into the data.
+                  **Dataset**: https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
