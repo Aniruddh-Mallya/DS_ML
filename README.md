@@ -21,8 +21,8 @@ Specific questions underlying the problem statement along with the code is avail
                   **Dataset**: https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
             
  - #### To Explore Business Analytics: <br />
-      > **Task**: Perform ‘Exploratory Data Analysis’ on the dataset, '*SampleSuperstore*'.
-                  As the business owner of a retail firm, see how your company is performing. 
-                  Find out the weak areas where you can work to make more profit.
-                  Derive the solution to all business problems by looking into the data.
+      > **Task**: Perform ‘Exploratory Data Analysis’ on the dataset, '*SampleSuperstore*'.<br/>
+                  As the business owner of a retail firm, see how your company is performing.<br/> 
+                  Find out the weak areas where you can work to make more profit.<br/> 
+                  Derive the solution to all business problems by looking into the data.<br/> 
                   **Dataset**: https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
