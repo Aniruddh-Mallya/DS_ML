@@ -20,7 +20,7 @@ Specific questions underlying the problem statement along with the code is avail
                   classifier, it would be able to predict the right class accordingly.
                   **Dataset**: https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
             
- - #### To Explore Business Analytics: <br />
+ - #### To Explore Business Analytics: *Sample Superstore.ipynb*<br />
       > **Task**: Perform ‘Exploratory Data Analysis’ on the dataset, '*Sample Superstore.ipynb*'.<br/>
                   As the business owner of a retail firm, see how your company is performing.
                   Find out the weak areas where you can work to make more profit.
