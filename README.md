@@ -1,4 +1,4 @@
-# DS_ML
+# Summer Internship
 This repository consists of seperate tasks, as one line problem statements. 
 Specific questions underlying the problem statement along with the code is available in the form of Jupyter Notebook.
  
